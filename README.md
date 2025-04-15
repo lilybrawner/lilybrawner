@@ -1,1 +1,5 @@
-
+- Hello, I'm Lily! I'm a second-year Linguistics and Computer Science major with a minor in Data Science Engineering at UCLA.
+- My research interests include infant language discrimination, human-computer interaction, and backend systems development.
+- I am currently working on a real-time MERN stack application for the UCLA Undergraduate Students Association Council Office of the External Vice President, where I serve as the Director of Advocacy Grants. Previous software projects that I have worked on can be found in my pinned repos!
+- I'm also the Finance and Facilities chair of the UCLA chapter of Upsilon Pi Epsilon and a community college peer advisor through Samahang Pilipino Advancing Community Empowerment.
+- You can reach me via email: lilybrawner@g.ucla.edu! 
