@@ -1,5 +1,4 @@
-- Hello, I'm Lily! I'm a third-year Linguistics and Computer Science major with a minor in Data Science Engineering at UCLA (c/o 2026).
+- Hello, I'm Lily! I have a bachelors degree in Linguistics and Computer Science major with a minor in Data Science Engineering from UCLA.
 - My research interests include Philippine-type language syntax, human-computer interaction, and backend systems development.
 - I am currently working on AI integration in healthcare. Previous software projects that I have worked on can be found in my pinned repos!
-- I'm also a community college peer advisor through Samahang Pilipino Advancing Community Empowerment, where I serve as Student Success Coordinator.
 - You can reach me via email: lilybrawner27@gmail.com! 
