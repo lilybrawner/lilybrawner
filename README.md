@@ -1,4 +1,4 @@
 - Hello, I'm Lily! I have a bachelors degree in Linguistics and Computer Science with a minor in Data Science Engineering from UCLA.
-- My research interests include Philippine-type language syntax, human-computer interaction, and full stack systems development.
+- My research interests include Philippine-type language syntax, human-computer interaction, audiology, and full stack systems development.
 - I am currently working on AI integration in healthcare. Previous software projects that I have worked on (non-exhaustive) can be found in my pinned repos!
-- You can reach me via email: lilybrawner27@gmail.com! 
+- You can reach me via email: lilybrawner27@gmail.com!
